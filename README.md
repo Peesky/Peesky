@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Peesky
+- 👋 Hi, I’m @Pyskee
 - 👀 I’m interested in space, programation, electronics, mecanics.
 - 🌱 I’m currently learning programation, electronics.
 - 💞️ I’m looking to collaborate on games, bots and Deep space food challenge
